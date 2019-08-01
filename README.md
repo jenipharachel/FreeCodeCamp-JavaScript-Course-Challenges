@@ -1,2 +1,2 @@
 # FreeCodeCamp-JavaScript-Course-Challenges
-The code I developed for completing the Algorithm scripting challenges provided in the course
+In this repository, you can find the code I developed for completing the Algorithm scripting challenges in the JS course provided by FreeCodeCamp
